@@ -1,0 +1,66 @@
+🔷 ABSTRACT (ENGLISH)
+
+Live Speed Calculator Web and Mobile Application is a smart location-based system designed to calculate and display the real-time speed of a user while traveling in any vehicle such as a car, bus, train, or flight. The application uses GPS-based geolocation data to continuously track the user’s movement and calculates speed using distance and time parameters.
+
+Unlike existing speedometer applications, this system focuses on intelligent features such as automatic vehicle detection, journey start and stop tracking, route visualization on maps, and detailed journey summaries including average speed, maximum speed, total distance, and travel time. The application is designed specifically for Indian transportation conditions, supporting low network availability and providing accurate speed estimation.
+
+The project is first implemented as a web application using modern web technologies and later extended into a mobile application. This system helps users monitor their travel speed, analyze journey patterns, and share travel summaries, making it useful for daily commuters, travelers, and students while also serving as a strong real-world learning project in full stack development.
+
+🧩  FEATURES LIST (ENGLISH)
+
+1. Live Speed Calculation
+Calculates and displays the real-time speed of the user using GPS location and time data.
+
+
+2. Automatic Vehicle Detection
+Detects the type of vehicle (walking, bike, car, bus, train, flight) automatically based on speed patterns.
+
+
+3. Journey Start and Stop Tracking
+Allows users to start and stop a journey manually and records complete travel data.
+
+
+4. Distance and Time Measurement
+Calculates total distance travelled and total travel time during the journey.
+
+
+5. Map-Based Route Visualization
+Displays the traveled route on an interactive map using GPS coordinates.
+
+
+6. Journey Summary Report
+Provides a summary including average speed, maximum speed, distance covered, and total time.
+
+
+7. Speed History Storage
+Stores previous journey data for future reference and analysis.
+
+
+8. Route-Based Speed Comparison
+Compares current journey speed with past journeys on the same route.
+
+
+9. Speed Drop and Delay Detection
+Detects sudden speed reductions and possible delays during the journey.
+
+
+10. Offline GPS Tracking Support
+Continues tracking speed and distance even in low or no internet conditions.
+
+
+11. Shareable Journey Summary Card
+Generates a visual summary card that can be shared on social media platforms.
+
+
+12. Safety Speed Alerts
+Sends alerts when speed exceeds safe or predefined limits.
+
+
+13. Indian Transport Friendly Design
+Optimized for Indian road, train, and network conditions.
+
+
+14. Web Application First Approach
+Initially developed as a web application and later extended to a mobile application.
+
+
